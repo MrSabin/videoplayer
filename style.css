@@ -2,4 +2,8 @@
     border: 0px;
     cursor: pointer;
     color: white;
+    background-color: transparent;
+}
+.player-buttons-wrapper {
+    background-color: black;
 }
