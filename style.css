@@ -1,10 +1,10 @@
-.button-play {
+.js-play-button {
     border: 0px;
     cursor: pointer;
     color: white;
     background-color: transparent;
 }
-.button-pause {
+.js-pause-button {
     border: 0px;
     cursor: pointer;
     color: white;
