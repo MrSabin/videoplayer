@@ -1,9 +1,13 @@
 .player-button {
     border: 0px;
+    width: 30px;
+    height: auto;
     cursor: pointer;
     color: white;
     background-color: transparent;
     font-size: 125%;
+    text-align: center;
+    margin: 5px;
 }
 .player-buttons-wrapper {
     display: flex;
