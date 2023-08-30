@@ -9,10 +9,12 @@
     text-align: center;
     margin: 5px;
 }
+
 .player-buttons-wrapper {
     display: flex;
     background-color: black;
 }
+
 .player {
     display: flex;
     flex-direction: column;
@@ -20,10 +22,12 @@
     height: 600px;
     box-shadow: 0px 0px 10px rgb(82, 80, 80);
 }
+
 .video-container {
     display: flex;
     flex-grow: 1;
 }
+
 .button-spacer {
     display: flex;
     flex-grow: 1;
